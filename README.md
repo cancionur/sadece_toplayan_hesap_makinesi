@@ -1,6 +1,6 @@
 # Açıklama 
 
-Flutter'da tasarlanmış basit bir tasarım ekranı
+Toplama işlemi yapan hesap makinesi - Flutter
 
 # Kullanım Videosu 
 
