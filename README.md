@@ -1,16 +1,11 @@
-# sadece_toplayan_hesap_makinesi
+# Açıklama 
 
-A new Flutter project.
+Flutter'da tasarlanmış basit bir tasarım ekranı
 
-## Getting Started
+# Kullanım Videosu 
 
-This project is a starting point for a Flutter application.
+https://youtu.be/qEtI71XWCZ0
 
-A few resources to get you started if this is your first Flutter project:
+# Görsel
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src ="pictures/Screenshot_2022-06-05-08-51-42-034_com.example.sadece_toplayan_hesap_makinesi.jpg" width="300"> 
